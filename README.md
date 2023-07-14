@@ -19,7 +19,7 @@ I'm Carmine! I'm engineering the operability of SonarQube at Sonar. Previously, 
 
 In summary,
 
-- 👨‍💻 I'm part of [Sonar](https://www.sonarsource.com/).
+- 👨‍💻 I'm part of the [Sonar](https://www.sonarsource.com/) team.
 - 🔭 I focus on making [SonarQube](https://www.sonarqube.org/) better operable in public and private cloud. Submit your PR to our [SonarQube helm chart](https://github.com/SonarSource/helm-chart-sonarqube) and [SonarQube docker image](https://github.com/SonarSource/docker-sonarqube) repositories!
 - 🎓 I got a Ph.D. in the s.e.a.l. group at the University of Zurich.
 - 🏡 I come from Italy 🇮🇹 and live in Switzerland 🇨🇭.
